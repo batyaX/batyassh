@@ -1,0 +1,7 @@
+[
+  {
+    "serverName": "Cute Bunny Server", 
+    "protocol": "Trojan",
+    "connectionString": "trojan://3747000103274291200@cute-bunny.redbird832.xyz:443?security=tls&type=tcp"
+  }
+]
